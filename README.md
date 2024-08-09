@@ -34,5 +34,5 @@
 
 ### NeuroNav
 **Description**: The NeuroNav dashboard is an interactive tool for visualizing a subset of data from the Human Connectome Project Young Adult dataset. Users of this tool can display and interact with different types of plots in each panel of the tool. One panel shows the age and sex distribution of the sample. Another panel allows users to plot performance on behavioral tasks against one another or against various structural brain measures such as white or gray matter volume. Users have the options to display a line of fit over this data and to display data for a chosen age or sex bucket. In the final panel, users can display plots representing results from tractometry analysis. This project uses Jupyter Widgets to render the elements of each plot, including the interactive components.\
-**Project url(s)**: https://github.com/NeuroHackademy2024/neuro-nav \
+**Project url**: https://github.com/NeuroHackademy2024/neuro-nav \
 **Contributors**: [Eyerusalem Abebaw](https://github.com/EyerusalemAbebaw), [Rohini Kumar](https://github.com/kumar-rohini), [Sophia Mehdizadeh](https://github.com/smehdizadeh), [Jonathan Wehnert](https://github.com/jonathanwehnert)
