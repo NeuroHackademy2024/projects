@@ -42,6 +42,10 @@
 **Project url**: https://github.com/dbraun31/nh2024-hcp1200-ml \
 **Contributors**: Angelina, Da Yea, Dave, Diana, Dickson, Haruka, Jacqueline, Jiayue, Jony, Kristen, Laura, Melissa, Mingcong, Omair, Ruize, Shangcheng, Shuhei, Theresa, Yuxiang. :)
 
+### EEG-Based Classification of Behavioral State Using ML and DL
+**Description**: Our project focused on classifying eye states (open or closed) using EEG data collected from 109 volunteers through the BCI2000 system. We analyze 1500 one- and two-minute 64-channel EEG recordings to develop and compare the performance of both traditional machine learning (ML) and deep learning (DL) models. Using methods like Random Forest (RF) and Gradient Boosting Machine (GBM), we manually extracted features from the EEG signals for ML classification. Simultaneously, we employed Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) in our DL approach to automatically learn and classify the data. This dual approach allowed us to explore the effectiveness of different techniques in accurately detecting eye states from EEG signals. \
+**Project url(s)**: https://github.com/vs-turner/eeg-hackathon \
+**Contributors**: Arwa Adib (https://github.com/arwaleilah), Bobby Tromm(https://github.com/btromm), Victoria Sayo Turner (https://github.com/vs-turner), Simona Vaitekunaite (https://github.com/similovesyou)\
 
 ### Sleuth Sloth, TLDR: Scientific Journals & Articles
 **Description**: Reading an article takes time, money, and effort. Before you know it you are taking an afternoon nap while reading through a 20-page lit review on the inner workings of magnetic resonance spectroscopy. Wouldn’t it be nice to have a “too long, didn’t read” version of the articles and data you need that pulls all the necessary information? This project leverages natural language processing and machine learning techniques to create a search engine that extracts and summarizes key information from a large repository of scientific articles based on a user question. When a user inputs a query, the engine identifies and retrieves relevant articles, presenting the extracted data in a tabular format. Additionally, the tool offers a detailed panel that provides supplementary demographic and methodological information for each selected article, enabling a more comprehensive understanding without the need to navigate the entire text.
@@ -54,4 +58,3 @@ Contributors: Cristian Curran, Magdalena Martinez-Garcia, Keerthi Stanley, Loret
 **Contributors**: [Allesandra](https://github.com/aiadipaolo), [Lya](https://github.com/lilikapa), [Elle](https://github.com/emucsb), [Gaby](https://github.com/OjVaGab), [Lupita](https://github.com/LupitaYanez), [Claudia](https://github.com/TatoCl), [Qingqing](https://github.com/Qingqing-Yang-177), [Luis](https://github.com/LuisA00) :)
 
    
-
