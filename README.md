@@ -57,4 +57,10 @@
 **Project url**: https://github.com/NeuroHackademy2024/diffusion-mri \
 **Contributors**: [Allesandra](https://github.com/aiadipaolo), [Lya](https://github.com/lilikapa), [Elle](https://github.com/emucsb), [Gaby](https://github.com/OjVaGab), [Lupita](https://github.com/LupitaYanez), [Claudia](https://github.com/TatoCl), [Qingqing](https://github.com/Qingqing-Yang-177), [Luis](https://github.com/LuisA00) :)
 
+
+### ThinkShareCare
+**Description**: ThinkShareCare is an interactive web app designed for mental health clinicians to help assess their patients' odds of specific outcomes, such as potential diagnoses, subtypes, and treatment responses. The app uses models created by the community, including contributions from mental health clinics, hospitals, and researchers. Contributors can upload model weights based on their patient data, which then get integrated into similar models using a meta-regression technique. This process allows the models to theoretically become more accurate over time as they are informed by increasing amounts of patient data. Importantly, no Protected Health Information (PHI) is shared with this technique, as only the model weights, generated on the user's browser, are sent to the server. Critically, while this tool may offer valuable insights and help clinicians integrate quantitative data, it is intended to be an additional resource for clinical decision-making, not a standalone diagnostic tool. \
+**Project URL**: https://github.com/hughesdy/ThinkShareCare  \
+**Contributors**: [Dylan Hughes](https://github.com/hughesdy) & [Sarah Zapetis](https://github.com/sarahzapetis)
+
    
